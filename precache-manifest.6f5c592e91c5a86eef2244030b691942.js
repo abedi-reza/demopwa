@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "da439bbe7cd188b1b7d52bf1f4f769ea",
+    "revision": "713d676ed4f1f71f22cdaf0da1ed023a",
     "url": "/demopwa/index.html"
   },
   {
-    "revision": "672f8ec9b507477d53f9",
+    "revision": "4f3a60fb8085dff5b41f",
     "url": "/demopwa/static/css/2.1fe8d21c.chunk.css"
   },
   {
-    "revision": "0f4645aa56d77ee240a7",
+    "revision": "c91cc8829bcf6d62e766",
     "url": "/demopwa/static/css/main.04ee55df.chunk.css"
   },
   {
-    "revision": "672f8ec9b507477d53f9",
-    "url": "/demopwa/static/js/2.d914e9f5.chunk.js"
+    "revision": "4f3a60fb8085dff5b41f",
+    "url": "/demopwa/static/js/2.6621775d.chunk.js"
   },
   {
-    "revision": "0f4645aa56d77ee240a7",
-    "url": "/demopwa/static/js/main.14cc5a28.chunk.js"
+    "revision": "c91cc8829bcf6d62e766",
+    "url": "/demopwa/static/js/main.ab676d3e.chunk.js"
   },
   {
     "revision": "8925151220cfbfedf66f",
