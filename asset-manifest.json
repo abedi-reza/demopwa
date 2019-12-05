@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/demopwa/static/css/main.04ee55df.chunk.css",
+    "main.js": "/demopwa/static/js/main.14cc5a28.chunk.js",
+    "main.js.map": "/demopwa/static/js/main.14cc5a28.chunk.js.map",
+    "runtime-main.js": "/demopwa/static/js/runtime-main.994f3bca.js",
+    "runtime-main.js.map": "/demopwa/static/js/runtime-main.994f3bca.js.map",
+    "static/css/2.1fe8d21c.chunk.css": "/demopwa/static/css/2.1fe8d21c.chunk.css",
+    "static/js/2.d914e9f5.chunk.js": "/demopwa/static/js/2.d914e9f5.chunk.js",
+    "static/js/2.d914e9f5.chunk.js.map": "/demopwa/static/js/2.d914e9f5.chunk.js.map",
+    "index.html": "/demopwa/index.html",
+    "precache-manifest.f6f3cfa89e36d6b3c8f3c69c91327e9c.js": "/demopwa/precache-manifest.f6f3cfa89e36d6b3c8f3c69c91327e9c.js",
+    "service-worker.js": "/demopwa/service-worker.js",
+    "static/css/2.1fe8d21c.chunk.css.map": "/demopwa/static/css/2.1fe8d21c.chunk.css.map",
+    "static/css/main.04ee55df.chunk.css.map": "/demopwa/static/css/main.04ee55df.chunk.css.map",
+    "static/media/mdb.css": "/demopwa/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/demopwa/static/media/fa-solid-900.c2801fb4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.994f3bca.js",
+    "static/css/2.1fe8d21c.chunk.css",
+    "static/js/2.d914e9f5.chunk.js",
+    "static/css/main.04ee55df.chunk.css",
+    "static/js/main.14cc5a28.chunk.js"
+  ]
+}
