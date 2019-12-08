@@ -3,12 +3,12 @@
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "/images/icons-512.png",
+      "src": "/icons-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "https://abedi-reza.github.io/demopwa/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
