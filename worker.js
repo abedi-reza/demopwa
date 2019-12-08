@@ -3,7 +3,7 @@ var urlsToCache = [
   '/demopwa/',
   '/demopwa/index.html', 
   '/demopwa/manifest.json',
-  '/demopwa/images/icons-512.png',
+  '/demopwa/icons-512.png',
   '/demopwa/favicon.ico', 
 ];
 
