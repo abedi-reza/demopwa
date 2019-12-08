@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9fb689bd3a11e07917f6b9373da2ceb0",
+    "revision": "449adb8eeacfeda24664d3e05957bce4",
     "url": "/demopwa/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demopwa/static/css/2.1fe8d21c.chunk.css"
   },
   {
-    "revision": "c91cc8829bcf6d62e766",
+    "revision": "c3c2572edd0005b92338",
     "url": "/demopwa/static/css/main.04ee55df.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demopwa/static/js/2.6621775d.chunk.js"
   },
   {
-    "revision": "c91cc8829bcf6d62e766",
-    "url": "/demopwa/static/js/main.ab676d3e.chunk.js"
+    "revision": "c3c2572edd0005b92338",
+    "url": "/demopwa/static/js/main.843561bd.chunk.js"
   },
   {
     "revision": "8925151220cfbfedf66f",

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/demopwa/static/css/main.04ee55df.chunk.css",
-    "main.js": "/demopwa/static/js/main.ab676d3e.chunk.js",
-    "main.js.map": "/demopwa/static/js/main.ab676d3e.chunk.js.map",
+    "main.js": "/demopwa/static/js/main.843561bd.chunk.js",
+    "main.js.map": "/demopwa/static/js/main.843561bd.chunk.js.map",
     "runtime-main.js": "/demopwa/static/js/runtime-main.994f3bca.js",
     "runtime-main.js.map": "/demopwa/static/js/runtime-main.994f3bca.js.map",
     "static/css/2.1fe8d21c.chunk.css": "/demopwa/static/css/2.1fe8d21c.chunk.css",
     "static/js/2.6621775d.chunk.js": "/demopwa/static/js/2.6621775d.chunk.js",
     "static/js/2.6621775d.chunk.js.map": "/demopwa/static/js/2.6621775d.chunk.js.map",
     "index.html": "/demopwa/index.html",
-    "precache-manifest.5943091e864bbbb307c1e28cb8551882.js": "/demopwa/precache-manifest.5943091e864bbbb307c1e28cb8551882.js",
+    "precache-manifest.65c19cdd2a561917fa4d50ffe44e93e8.js": "/demopwa/precache-manifest.65c19cdd2a561917fa4d50ffe44e93e8.js",
     "service-worker.js": "/demopwa/service-worker.js",
     "static/css/2.1fe8d21c.chunk.css.map": "/demopwa/static/css/2.1fe8d21c.chunk.css.map",
     "static/css/main.04ee55df.chunk.css.map": "/demopwa/static/css/main.04ee55df.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.1fe8d21c.chunk.css",
     "static/js/2.6621775d.chunk.js",
     "static/css/main.04ee55df.chunk.css",
-    "static/js/main.ab676d3e.chunk.js"
+    "static/js/main.843561bd.chunk.js"
   ]
 }
