@@ -118,7 +118,7 @@ class App extends Component {
  
   render() {
     return (
-      <BrowserRouter>
+      <BrowserRouter  basename="demopwa">
         <div>
           <Route exact path="/" component={Home}/> 
         </div>
