@@ -1,9 +1,9 @@
 {
   "short_name": "Bidopin PWA",
-  "name": "Create React App Sample",
+  "name": "Bidopin Progressive Web App",
   "icons": [
     {
-      "src": "demopwa/icons-512.png",
+      "src": "/icons-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
