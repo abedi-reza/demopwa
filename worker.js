@@ -1,15 +1,10 @@
 var CACHE_NAME = 'bidopin-pwa';
 var urlsToCache = [
-  // '/',
-  // '/index.html', 
-  // '/manifest.json',
-  // '/images/icons-512.png',
-  // '/favicon.ico',
-  // '/static/js/bundle.js',
-  // 'static/js/main.chunk.js',
-  // '/static/js/0.chunk.js'
-
-
+  '/',
+  '/index.html', 
+  '/manifest.json',
+  '/images/icons-512.png',
+  '/favicon.ico', 
 ];
 
 // Install a service worker
