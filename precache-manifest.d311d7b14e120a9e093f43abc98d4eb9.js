@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "19dfad554537b1123fff9d7565816ca6",
+    "revision": "150d07a02e636bd1eb707947707d79d0",
     "url": "/demopwa/index.html"
   },
   {
